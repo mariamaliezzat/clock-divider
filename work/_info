@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Mohamed Ezzat/Desktop/assignments/clock div gen
+vclock_div
+!s110 1659538739
+!i10b 1
+!s100 B<6iE4P`PAkZJhl?AS=VN3
+IGaRCLC0:I`n>`i6bTGci50
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1659538465
+8C:/Users/Mohamed Ezzat/Desktop/assignments/clock div gen/clock_div_gen.v
+FC:/Users/Mohamed Ezzat/Desktop/assignments/clock div gen/clock_div_gen.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1659538739.000000
+!s107 C:/Users/Mohamed Ezzat/Desktop/assignments/clock div gen/clock_div_gen.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Mohamed Ezzat/Desktop/assignments/clock div gen/clock_div_gen.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vclock_div_gen
+!s110 1659560847
+!i10b 1
+!s100 ;]UeX>Azd8njUc006_iFe0
+IS=aY`=^QR1nokb>eDQS^R0
+R1
+R0
+w1659556773
+8clock_div_gen.v
+Fclock_div_gen.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1659560847.000000
+!s107 final.v|clock_div_gen.v|clock_divider_gen_2.v|
+!s90 clock_divider_gen_2.v|clock_div_gen.v|final.v|
+!i113 1
+R4
+vclock_divider_gen
+!s110 1659565283
+!i10b 1
+!s100 5kzPh<9bj^Agfc^AoeS393
+I=?>Cih[8RXJkNjcAEeEQR1
+R1
+R0
+w1659565092
+8C:/Users/Mohamed Ezzat/Desktop/assignments/clock div gen/clock_divider_gen.v
+FC:/Users/Mohamed Ezzat/Desktop/assignments/clock div gen/clock_divider_gen.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1659565283.000000
+!s107 C:/Users/Mohamed Ezzat/Desktop/assignments/clock div gen/clock_divider_gen.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Mohamed Ezzat/Desktop/assignments/clock div gen/clock_divider_gen.v|
+!i113 1
+R3
+R4
+vclock_divider_gen_2
+!s110 1659564815
+!i10b 1
+!s100 d_Cjb4XP@7^<FZ;`PA_L_1
+I]EnIz9[eUjOGaBBo;g]3O2
+R1
+R0
+w1659564813
+8.\clock_divider_gen_2.v
+F.\clock_divider_gen_2.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1659564815.000000
+!s107 .\clock_divider_gen_2.v|
+!s90 .\clock_divider_gen_2.v|
+!i113 1
+R4
